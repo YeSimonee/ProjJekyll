@@ -2,46 +2,47 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Università degli Studi di Roma "Tor Vergata"
 
-[Link to another page](./another-page.html).
+L'**Università degli Studi di Roma "Tor Vergata"** è un ateneo pubblico situato a Roma, fondato nel **1982**. È una delle principali università italiane e offre una vasta gamma di corsi di laurea, master e dottorati.
 
-There should be whitespace between paragraphs.
+## Struttura dell'Ateneo
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+L'università è organizzata in **sei macroaree**:
 
-# Header 1
+1. **Economia**
+2. **Giurisprudenza**
+3. **Ingegneria**
+4. **Lettere e Filosofia**
+5. **Medicina e Chirurgia**
+6. **Scienze Matematiche, Fisiche e Naturali**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ogni macroarea comprende diversi dipartimenti che si occupano della didattica e della ricerca in vari settori.
 
-## Header 2
+## Offerta Formativa
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+L'università offre corsi di laurea triennale, magistrale e a ciclo unico in molte discipline. Tra i corsi più noti troviamo:
 
-### Header 3
+- **Ingegneria Informatica** (triennale e magistrale)
+- **Medicina e Chirurgia**
+- **Economia e Management**
+- **Fisica** e **Matematica**
+- **Giurisprudenza** (a ciclo unico)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Campus e Strutture
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Il campus di Tor Vergata è uno dei più grandi d'Italia, con **laboratori avanzati, biblioteche, aule studio e impianti sportivi**. L'università è collegata al centro di Roma tramite la metropolitana e diversi autobus.
 
-#### Header 4
+## Ricerca e Collaborazioni
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+L'università è attiva nella ricerca scientifica e collabora con istituzioni nazionali e internazionali. Dispone di numerosi centri di ricerca e ha legami con aziende e startup per favorire l'innovazione e il trasferimento tecnologico.
+
+## Contatti e Informazioni
+
+- **Sito web ufficiale**: [www.uniroma2.it](https://www.uniroma2.it)
+- **Indirizzo**: Via Cracovia 50, 00133 Roma
+- **Email**: urp@uniroma2.it
+- **Telefono**: +39 06 72591
 
 ##### Header 5
 
