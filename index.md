@@ -44,3 +44,9 @@ L'università è attiva nella ricerca scientifica e collabora con istituzioni na
 - **Email**: urp@uniroma2.it
 - **Telefono**: +39 06 72591
 
+<p style="font-size: 18px;">
+            La didattica dei corsi di laurea triennale e magistrale in Informatica ha luogo all’interno
+            del Campus Universitario di Tor Vergata, presso gli edifici della macro-area di Scienze,
+            in via della Ricerca Scientifica. La sede dispone di ampi parcheggi gratuiti a pochi metri
+            dagli edifici aule. È facilmente raggiungibile dal Grande Raccordo Anulare di Roma
+            dall’uscita dell’autostrada Roma-Napoli. </p>
